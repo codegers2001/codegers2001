@@ -93,15 +93,15 @@ Soy una persona apasionada por aprender y compartir mis conocimientos de la form
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
 
-### 💰 &nbsp;Support My Work
+# 💰 Apoya mi trabajo
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
 
-### 🐍 &nbsp;That's How Commits move ...
 
 <div align="center">
-  <a href="https://github.com/codegers2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<h2 align="center" style="margin: 5px 10px;">Estadísticas de Github</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=codegers2001&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/codegers2001)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
 </div>
 
-
+Credit: [Codegers2001](https://github.com/codegers2001)
