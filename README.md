@@ -101,7 +101,7 @@ Soy una persona apasionada por aprender y compartir mis conocimientos de la form
 <h2 align="center" style="margin: 5px 10px;">Estadísticas de Github</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=codegers2001&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/codegers2001)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=codegers20018&theme=material-palenight)](https://github.com/codegers2001)
 </div>
 
 Credit: [Codegers2001](https://github.com/codegers2001)
